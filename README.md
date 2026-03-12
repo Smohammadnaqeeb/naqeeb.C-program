@@ -1,1 +1,1 @@
-# naqeeb.C-program
+SHAIK MOHAMMAD NAZQEEB C
